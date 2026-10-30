@@ -28,26 +28,6 @@ The application provides customers with an interactive support portal to submit 
 
 Administrators can monitor ticket activity, analyze operational performance, manage ticket statuses, and access interactive visualizations through a centralized dashboard.
 
-## 🖥️ Application Preview
-
-### 01. Home Page
-
-![CloudContact Assist Home Page](screenshots/home.png)
-
-### 02. Customer Support Portal
-
-![Customer Support Portal](screenshots/support-portal.png)
-
-### 03. Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### 04. Analytics Dashboard
-
-![Analytics Dashboard](screenshots/analytics.png)
-
----
-
 ## ✨ Key Features
 
 ### 🎧 Customer Support Portal
